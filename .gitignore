@@ -1,0 +1,6 @@
+#Mac Files 
+.DS_store
+node_modules
+*.txt
+.env
+
